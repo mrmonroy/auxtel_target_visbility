@@ -1,4 +1,6 @@
 astronomical_data/
 calspec_data/
 targets_*/
+.virtual_documents/
+.ipynb_checkpoints
 *_testing.ipynb
