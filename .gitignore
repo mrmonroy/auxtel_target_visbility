@@ -1,0 +1,4 @@
+astronomical_data/
+calspec_data/
+targets_*/
+*_testing.ipynb
