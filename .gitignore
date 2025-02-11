@@ -4,3 +4,4 @@ targets_*/
 .virtual_documents/
 .ipynb_checkpoints
 *_testing.ipynb
+*_run_*.ipynb
